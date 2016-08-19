@@ -1,0 +1,1 @@
+http://devdocs.magento.com/guides/m1x/magefordev/mage-for-dev-6.html
